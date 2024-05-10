@@ -15,4 +15,3 @@ jobs:
         username: ${{ secrets.MENY_USERNAME }}
         password: ${{ secrets.MENY_PASSWORD }}
         args: --debug
-        
