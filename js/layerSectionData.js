@@ -67,7 +67,7 @@ const manhattanLayerSections = [
   {
     id: "grants_layer_items",
     caretId: "dutch-grants-layer-caret",
-    label: "1640-64 | Dutch Grants.",
+    label: "1640-64 | Dutch Grants",
     itemSelector: ".dutch_grants_layer_item",
     zoomTo: "NA",
     infoId: "grants-info-layer",
