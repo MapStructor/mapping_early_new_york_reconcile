@@ -14,3 +14,4 @@ jobs:
         server: ${{ secrets.MENY_SERVER_NAME }}
         username: ${{ secrets.MENY_USERNAME }}
         password: ${{ secrets.MENY_PASSWORD }}
+        args: --debug
