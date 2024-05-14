@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/simcente/public_html/mappingNY/githubtest/
+    - /bin/cp -r * $DEPLOYPATH
